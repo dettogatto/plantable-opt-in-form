@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Founders Grotesk Mono';
+    src: url('FoundersGroteskMono-Regular.woff2') format('woff2'),
+        url('FoundersGroteskMono-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noe Display';
+    src: url('NoeDisplay-Bold.woff2') format('woff2'),
+        url('NoeDisplay-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Founders Grotesk Text';
+    src: url('FoundersGroteskText-Bold.woff2') format('woff2'),
+        url('FoundersGroteskText-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Founders Grotesk Text';
+    src: url('FoundersGroteskText-Regular.woff2') format('woff2'),
+        url('FoundersGroteskText-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
